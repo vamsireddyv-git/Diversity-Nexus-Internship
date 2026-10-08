@@ -1,0 +1,4 @@
+Python is easy to learn.
+I am learning File I/O.
+I like Python programming.
+I will practice Python every day.
